@@ -1,0 +1,45 @@
+[33mcommit 87299168621d257dbfd9fb3ed1e0caf718b8fe4c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mschool/master[m[33m)[m
+Merge: 2a21e57 66d1f30
+Author: Kristina Meshcheryakova <yasherkavanilla@gmail.com>
+Date:   Sat May 25 05:33:45 2019 +0300
+
+    Merge pull request #1 from Yasherka/dependabot/npm_and_yarn/lodash-4.17.11
+    
+    Bump lodash from 4.17.10 to 4.17.11
+
+[33mcommit 2a21e57c779ed5b78edccd2a2131363aef5a8af8[m
+Merge: 7eeaa26 057fb87
+Author: Kristina Meshcheryakova <yasherkavanilla@gmail.com>
+Date:   Sat May 25 05:32:19 2019 +0300
+
+    Merge pull request #3 from Yasherka/homework_1
+    
+    Homework 1
+
+[33mcommit 057fb87ce2b10928bc972ede690d057ff0eb3890[m[33m ([m[1;31morigin/homework_1[m[33m, [m[1;32mhomework_1[m[33m)[m
+Author: Kristina <yasherkavanilla@gmail.com>
+Date:   Sat May 25 05:15:36 2019 +0300
+
+    made homework
+
+[33mcommit 9fab6467f0dccf58d410d9e3cbe7830b3133ad75[m
+Author: Kristina <yasherkavanilla@gmail.com>
+Date:   Sat May 25 05:01:18 2019 +0300
+
+    set homwork 1
+
+[33mcommit 66d1f30f7d2db88d139c0d5edc34b77f95f1a6ff[m
+Author: dependabot[bot] <dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 25 01:44:35 2019 +0000
+
+    Bump lodash from 4.17.10 to 4.17.11
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.10 to 4.17.11.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.10...4.17.11)
+
+[33mcommit 7eeaa26085ed191a097e703aae9c583adfb7512e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Kristina <yasherkavanilla@gmail.com>
+Date:   Sat May 25 04:19:15 2019 +0300
+
+    initial commit
